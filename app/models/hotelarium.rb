@@ -1,0 +1,2 @@
+class Hotelarium < ApplicationRecord
+end
